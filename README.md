@@ -97,3 +97,4 @@ The dataset used in this project consists of TLC Trip Record Data, which include
 - Modify and run the Python scripts to process data as per your analysis requirements.
 - Use Looker Studio to visualize the processed data and gain insights from it.
  
+This project was implemented by following a tutorial, i do not own the rights to this code
